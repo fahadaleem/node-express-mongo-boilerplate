@@ -1,0 +1,11 @@
+{
+  "errors": {
+    "userNotFound": "User does not exist. Please check your email and password.",
+    "emailExists": "Email already exists",
+    "invalidPassword": "Invalid password",
+    "internalServerError": "Internal server error"
+  },
+  "success": {
+    "userCreated": "User created successfully"
+  }
+}
